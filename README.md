@@ -1,16 +1,7 @@
 # blog_tapestry
 
-A new Flutter project.
-
+Blog Tapestry is a Flutter-based personal project I designed to gather blog content from different sources all in one place. I used this project to solidify my understanding and use of state management (Flutter Riverpod), particularly in the context of collecting and displaying data from various APIs. With this project, I also learned about data caching and enabling offline data support using the Hive package. It's not just about the tech side but making sure users have a great experience while using the app.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
